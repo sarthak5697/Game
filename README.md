@@ -14,6 +14,10 @@ A game made using :
   3) As soon as you capture the diamond the game is over and a pop up appears .
   4) You need to avoid the virus obstacles in between if you touch them game gets over .       
     
+    &nbsp
+    &nbsp
+    &nbsp
+    
     
     
     
