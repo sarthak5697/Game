@@ -16,6 +16,6 @@ A game made using :
   
   
 <p align="center">
-  <img src="outputs/Screenshot 2021-07-15 005441.png" width="350" title="demo">
+  <img src="outputs/Screenshot 2021-07-15 005752.png" width="350" title="demo">
   <img src="outputs/Screenshot 2021-07-15 005611.png" width="350" alt="explained">
 </p>
