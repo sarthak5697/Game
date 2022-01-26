@@ -4,7 +4,7 @@
 
 A game made using :
     JavaScript
-    HTML "<canvas>" tag
+    HTML canvas tag
     CSS
   
     How to play ? 
