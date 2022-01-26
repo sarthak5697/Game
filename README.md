@@ -15,4 +15,7 @@ A game made using :
   4) You need to avoid the virus obstacles in between if you touch them game gets over .
   
   
-![Images](outputs/Screenshot 2021-07-15 005441.png)
+<p align="center">
+  <img src="outputs/Screenshot 2021-07-15 005441.png" width="350" title="demo">
+  <img src="outputs/Screenshot 2021-07-15 005611.png" width="350" alt="explained">
+</p>
