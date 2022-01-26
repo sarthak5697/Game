@@ -7,8 +7,7 @@ A game made using :
     HTML <canvas> tag
     CSS
   
-  
-## How to play ? 
+    How to play ? 
   
   1) Game begins from the left .
   2) You have to go from left to right and capture the diamond .
@@ -16,3 +15,4 @@ A game made using :
   4) You need to avoid the virus obstacles in between if you touch them game gets over .
   
   
+![Images](outputs/Screenshot 2021-07-15 005441.png)
