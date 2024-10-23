@@ -1,21 +1,46 @@
 <html>
-    <head>
-<title>GAME CHALLHEMGE 1</title>
-<style>
-canvas{
 
-    border:5px solid black;
-    background-image: url("assets/back.jpeg") ;
+<head>
+    <title>GAME CHALLENGE 1</title>
+    <style>
+        canvas {
+            border: 5px solid black;
+            background-image: url("assets/back.jpeg");
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.7);
+        }
 
-    
-}
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 10px;
+        }
 
-</style>
+        #playAgainBtn {
+            display: none;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
 
-    </head>
+        #playAgainBtn:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+
 <body>
-<canvas id="mycanvas"></canvas>
-<script src="game.js"></script>
-
+    <h1>Collect the Gem and Avoid Enemies</h1>
+    <p>Use the arrow keys or 'A'/'D' keys to move left and right. Avoid enemies and collect the gem to win!</p>
+    <canvas id="mycanvas"></canvas>
+    <button id="playAgainBtn" onclick="restartGame()">Play Again</button>
+    <script src="game.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti/dist/confetti.browser.min.js"></script>
 </body>
+
 </html>
